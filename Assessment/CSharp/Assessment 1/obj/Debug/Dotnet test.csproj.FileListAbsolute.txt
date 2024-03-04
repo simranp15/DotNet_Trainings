@@ -1,0 +1,7 @@
+C:\Users\simranp\source\repos\Dotnet test\Dotnet test\bin\Debug\Dotnet test.exe.config
+C:\Users\simranp\source\repos\Dotnet test\Dotnet test\bin\Debug\Dotnet test.exe
+C:\Users\simranp\source\repos\Dotnet test\Dotnet test\bin\Debug\Dotnet test.pdb
+C:\Users\simranp\source\repos\Dotnet test\Dotnet test\obj\Debug\Dotnet test.csproj.AssemblyReference.cache
+C:\Users\simranp\source\repos\Dotnet test\Dotnet test\obj\Debug\Dotnet test.csproj.CoreCompileInputs.cache
+C:\Users\simranp\source\repos\Dotnet test\Dotnet test\obj\Debug\Dotnet test.exe
+C:\Users\simranp\source\repos\Dotnet test\Dotnet test\obj\Debug\Dotnet test.pdb
