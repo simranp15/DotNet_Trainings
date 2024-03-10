@@ -1,0 +1,10 @@
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Assignment04\obj\Debug\Assignment 4.csproj.AssemblyReference.cache
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Assignment04\obj\Debug\Assignment 4.csproj.CoreCompileInputs.cache
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Assignment04\obj\Debug\Assignment04.exe
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Assignment04\obj\Debug\Assignment04.pdb
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Assignment04\bin\Debug\Assignment04.exe.config
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Assignment04\bin\Debug\Assignment04.exe
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Assignment04\bin\Debug\Assignment04.pdb
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Assignment04\bin\Debug\Concession.dll
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Assignment04\bin\Debug\Concession.pdb
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Assignment04\obj\Debug\Assignment 4.csproj.CopyComplete

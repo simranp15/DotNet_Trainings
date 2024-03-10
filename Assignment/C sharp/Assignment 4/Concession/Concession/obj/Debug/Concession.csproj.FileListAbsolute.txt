@@ -1,0 +1,6 @@
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Concession\bin\Debug\Concession.dll
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Concession\bin\Debug\Concession.pdb
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Concession\obj\Debug\Concession.csproj.AssemblyReference.cache
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Concession\obj\Debug\Concession.csproj.CoreCompileInputs.cache
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Concession\obj\Debug\Concession.dll
+D:\DOTNET_TRAINING\Assignment\C sharp\Assignment 4\Concession\Concession\obj\Debug\Concession.pdb
