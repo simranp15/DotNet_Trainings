@@ -92,3 +92,9 @@ Select Ename, Sal from EMP where SAL not between 1500 and 2850;
  
 ---------------------15. Find all managers who have more than 2 employees reporting to them--------------------------------
 Select Mgr_id from EMP Group by Mgr_id Having Count(*)>2
+
+
+
+Create view VW
+as
+Select Ename ,Sal , DName from  EMP  join Dept on EMP where  job = 'IT'
