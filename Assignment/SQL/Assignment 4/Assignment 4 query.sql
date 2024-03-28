@@ -68,7 +68,7 @@ begin
 	     declare @RaiseException  varchar(100)
 		 declare @HolidayName varchar(30)
 		 select @HolidayName= Holiday_Name from Holiday where Holiday_Date=convert(date,getdate());
-	     set @RaiseException = 'There is a Holiday called '+ @HolidayName+' so you can not perform any dml operation';
+	     set @RaiseException = 'Due to '+ @HolidayName+' you can not manipulate the data';
          raiserror(@RaiseException, 16, 1);
          return
     end

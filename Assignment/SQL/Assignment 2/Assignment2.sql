@@ -95,26 +95,3 @@ Select Mgr_id from EMP Group by Mgr_id Having Count(*)>2
 
 
 
---Create view VW
---as
---Select Ename ,Sal , DName from  EMP  join Dept on EMP where  job = 'IT'
-
-
-
-
-
---create table EmployeeAudit(Message varchar(max)) 
---create or alter trigger trgAuditDelete
---on EMP for delete
---as
---begin
---declare @id int
---select @id=empid from deleted 
- 
---insert into EmployeeAuditvalues('New Employee with ID ' + ' '+cast(@id as varchar(5))+ ' is added at '
---+cast(getdate())as nvarchar(15)))
---end
-
---insert into EMP values ( 1921 , 'Shrija',  'Clerk' 7008, '2002-12-17')
---delete from emp where empno=1921;
---select * from EmployeeAudit;
