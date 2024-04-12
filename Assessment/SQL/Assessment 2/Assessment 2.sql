@@ -48,6 +48,7 @@ ename varchar(25),
 sal decimal(10,2),
 doj date
 );
+drop table Employee;
 Select* from Employee
 
 --	a. First insert 3 row--------------

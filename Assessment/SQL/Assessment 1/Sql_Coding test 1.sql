@@ -61,7 +61,6 @@ MobileNo numeric(10),
 Mail_id unique,
 Location varchar(10),
 Gender varchar(7),
-
 );
 
 
