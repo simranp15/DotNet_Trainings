@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 
@@ -16,15 +12,15 @@ namespace Assessment_1
 
         static void Main(string[] args)
         {
-           InsertEmployee_details();
-            Display_Employeedetails();
+            InsertEmployee_details();
+           // Display_Employeedetails();
             Console.ReadKey();
 
         }
 
         public static SqlConnection GetConnection()
         {
-            con = new SqlConnection("data source=ICS-LT-FL7J8G3/SQLEXPRESS ;initial catalog=Employeemanagement;" +
+            con = new SqlConnection("data source=ICS-LT-FL7J8G3\\SQLEXPRESS;initial catalog=Employeemanagement;" +
                 "integrated security=true");
             con.Open();
             return con;
@@ -33,12 +29,12 @@ namespace Assessment_1
         { 
              con = GetConnection();
 
-            int Empsal,Empno;
+            int Empsal;
             string Empname, Emptype;
             try { 
           
-                Console.WriteLine("Enter Emp NO");
-                Empno = Convert.ToInt32(Console.ReadLine());
+             //   Console.WriteLine("Enter Employeeno");
+             //   Empno = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Enter Emp Name");
                 Empname = Console.ReadLine();
                 Console.WriteLine("Enter Emp salary");
@@ -47,7 +43,7 @@ namespace Assessment_1
                 Emptype = Console.ReadLine();
 
 
-                cmd = new SqlCommand("Add_EmployeeDetails", con);
+                cmd = new SqlCommand("Add_Employeedetails", con);
                 cmd.CommandType = CommandType.StoredProcedure;
 
                 cmd.Parameters.AddWithValue("@Empname", Empname);
@@ -86,3 +82,4 @@ namespace Assessment_1
         }
     }
 }
+

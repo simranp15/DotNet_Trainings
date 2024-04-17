@@ -1,5 +1,5 @@
 Create database Employeemanagement
-
+drop database Employeemanagement
 Use Employeemanagement;
 
 Create table Employee_Details (
@@ -27,3 +27,4 @@ end;
 
 
  Select* from Employee_Details
+
